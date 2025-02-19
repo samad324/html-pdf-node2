@@ -15,7 +15,7 @@
     "bluebird": "^3.7.2",
     "handlebars": "^4.7.6",
     "inline-css": "^3.0.0",
-    "puppeteer": "^10.4.0"
+    "puppeteer": "^24.2.1"
   },
   "devDependencies": {
     "chai": "^4.2.0",
@@ -30,10 +30,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mrafiqk/html-pdf-node.git"
+    "url": "git+https://github.com/samad324/html-pdf-node2.git"
   },
   "bugs": {
-    "url": "https://github.com/mrafiqk/html-pdf-node/issues"
+    "url": "https://github.com/samad324/html-pdf-node2/issues"
   },
-  "homepage": "https://github.com/mrafiqk/html-pdf-node#readme"
+  "homepage": "https://github.com/samad324/html-pdf-node2#readme"
 }
